@@ -3,8 +3,6 @@ title: Wet vs. Dry Coding Principles
 category: General
 ---
 
-## Wet vs. Dry Coding Principles
-
 When beginning to code, you will invariably be introduced to functions. Functions are simply defined as a “[…] block of code that performs a task. It can be called and reused multiple times. You can pass information to a function, and it can send information back.”
 Functions are used for organization, reusability, testing, extensibility, and abstractions. For this post, I’ll focus on the reusability aspect of functions and the DRY and WET principles.
 
